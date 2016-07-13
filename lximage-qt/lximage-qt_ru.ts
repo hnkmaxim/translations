@@ -57,22 +57,22 @@ Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;</translation>
     <message>
         <location filename="../../mainwindow.cpp" line="530"/>
         <source>[*]%1 (Loading...) - Image Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">[*]%1 (Загружается...) - Просмотрщик изображений</translation>
     </message>
     <message>
         <location filename="../../mainwindow.cpp" line="535"/>
         <source>[*]%1 (Failed to Load) - Image Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">[*]%1 (Ошибка загрузки) - Просмотрщик изображений</translation>
     </message>
     <message>
         <location filename="../../mainwindow.cpp" line="539"/>
         <source>[*]%1 (%2x%3) - Image Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">[*]%1 (%2x%3) - Просмотрщик изображений</translation>
     </message>
     <message>
         <location filename="../../mainwindow.cpp" line="576"/>
         <source>[*]Image Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">[*]Просмотрщик изображений</translation>
     </message>
     <message>
         <source>%1 (Loading...) - Image Viewer</source>
